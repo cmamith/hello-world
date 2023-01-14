@@ -9,7 +9,11 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Esmail" name="email" id="email" required>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Enter mobile" name="mobile" id="mobile" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
